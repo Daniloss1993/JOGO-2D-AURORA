@@ -116,6 +116,3 @@ UserSettings/
 ## Licença
 
 MIT (pode adaptar conforme necessidade).
-
-
-# JOGO-2D-AURORA
